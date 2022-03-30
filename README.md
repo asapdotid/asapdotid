@@ -11,5 +11,11 @@
 <a href="https://instagram.com/asapdotid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asapdotid" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asapdotid&show_icons=true&locale=en" alt="asapdotid" /></p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asapdotid&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asapdotid)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asapdotid)  
+
+![Profile views](https://gpvc.arturio.dev/asapdotid)  
