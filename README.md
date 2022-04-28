@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asapdotid</h1>
 <h3 align="center">A passionate skills and knowledge digger from Indonesia</h3>
 
-- 🔭 I’m currently working on **AsapLabs**
-
+- 🔭 I’m currently working on **Picasso**
+- 🔭 I’m currently codelabs on **AsapLabs**
 - 🌱 I’m currently learning **DevOps**
 
 <h3 align="left">Connect with me:</h3>
