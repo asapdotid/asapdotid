@@ -30,6 +30,6 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-<br /><br />
+<br />
 
-![](https://komarev.com/ghpvc/?username=asapdotid&style=for-the-badge)
+<img class="float-left rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/34257858?s=96&amp;v=4" width="28" height="28" alt="@asapdotid"> ![](https://komarev.com/ghpvc/?username=asapdotid&style=for-the-badge&color=brightgreen)
