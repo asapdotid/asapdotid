@@ -2,7 +2,7 @@
 <h3 align="center">A passionate skills and knowledge digger from Indonesia</h3>
 
 - 🔭 I’m currently working on **Picasso**
-- 🔭 I’m currently codelabs on **AsapLabs**
+- 🕵 I’m currently codelabs on **AsapLabs**
 - 🌱 I’m currently learning **DevOps**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,12 +17,12 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asapdotid)   
 
 
-<h3 align="left">Operating System:</h3>
+<h3 align="left">Operating Systems:</h3>
 
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-<h3 align="left">Editor:</h3>
+<h3 align="left">Editors:</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
