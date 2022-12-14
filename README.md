@@ -14,8 +14,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asapdotid&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asapdotid)   
-
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=asapdotid&hide_border=true&theme=react)
 
 <h3 align="left">Operating Systems:</h3>
 
