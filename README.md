@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asapdotid" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="asapdotid" /></a>
-<a href="https://instagram.com/asapdotid" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="asapdotid" /></a>
+<a href="https://twitter.com/asapdotid" rel="noopener noreferrer" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="asapdotid" /></a>
+<a href="https://instagram.com/asapdotid" rel="noopener noreferrer" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="asapdotid" /></a>
 </p>
 
 
