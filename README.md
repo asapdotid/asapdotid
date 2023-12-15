@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asapdotid</h1>
 <h3 align="center">A passionate skills and knowledge digger</h3>
 
-- 🔭 I’m currently working on **Picasso**
+- 🔭 I’m currently working on **Jogjanode**
 - 🕵 I’m currently codelabs on **AsapLabs**
 - 🌱 I’m currently learning **DevOps**
 
